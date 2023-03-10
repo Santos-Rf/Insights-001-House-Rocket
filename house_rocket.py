@@ -35,7 +35,7 @@ def data_overview(df):
 'O Cientista de dados da empresa deverá ajudar a encontrar as melhores '
 'oportunidades de negócio.')
   st.sidebar.write("Para mais informações sobre o projeto, acesse: "
-"[GitHub]()")
+"[GitHub](https://github.com/Santos-Rf/Insights-001-House-Rocket)")
   return None
 
 def metricas (df):
