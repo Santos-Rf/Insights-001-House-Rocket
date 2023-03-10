@@ -389,7 +389,7 @@ def tabela (df):
   return None
 
 if __name__ == "__main__":
-  path = r'C:\Users\rf_as\Projetos\Data Science\Projetos de Insights\Projeto_01-House_Rocket\Datasets\kc_house_data.csv'
+  path = r'Datasets/kc_house_data.csv'
   url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
   df = get_data(path)
   geofile = get_geofile(url)
