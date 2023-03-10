@@ -77,11 +77,14 @@ Quais foram as etapas para solucionar o problema de negócio:
 
 4. Exploração de dados
 
+[Link para o APP](https://santos-rf-insights-001-house-rocket-house-rocket-bdvbxe.streamlit.app/)
+
 5. Responder problemas do negócio
 
 6. Resultados para o negócio
 
 7. Conclusão
+
 
 # 5. Top Insights
 
@@ -119,7 +122,6 @@ O as análises das hipóteses dizem sobre o negócio
 | **H10** - Imóveis com 3 banheiros tem um crescimento mês após mês de 15% | Falsa      | Investir em imóveis nos meses de menor custo                 |
 
 O valor total de lucro (lucro = preço de compra - preço de venda) dos imóveis é de: **24.469.998,20**
-
 
 
 # 7. Conclusão
